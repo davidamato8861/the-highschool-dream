@@ -28,9 +28,9 @@ form {
 }
 
 #justin {
-    padding-bottom: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    position: fixed;
-    display: block;
+    float: right;
+}
+
+#ok {
+    float: left;
 }
